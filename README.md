@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shashwatdevhans
-- 👀 I’m interested in Programming the machines
+- 👀 I’m interested in Programming of machines
 - 🌱 I’m currently learning Data Structure Algo.
 - 💞️ I’m looking to collaborate on Machine Learnin Algo.
 - 📫 How to reach me shashwatdevchaudhry@gmail.com
