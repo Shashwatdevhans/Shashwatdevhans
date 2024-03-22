@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm shashwat dev hans</h1>
 <h3 align="center">A passionate Tech developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpunkrockos.com%2Fcoding-animated-gif&psig=AOvVaw3_b-TFpsRAj1kcOXmW0wBi&ust=1711188395403000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMinxNTPh4UDFQAAAAAdAAAAABAo">
+<img align="right" alt="coding-image" width="400" src="https://i0.wp.com/codemyui.com/wp-content/uploads/2017/03/hero-section-animation.gif?fit=880%2C440&ssl=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwatdevhans&label=Profile%20views&color=0e75b6&style=flat" alt="shashwatdevhans" /> </p>
 
